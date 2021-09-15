@@ -31,6 +31,9 @@ input {
   display:inline-flex;
   justify-content: flex-end !important;
 }
+.password a {
+  padding-left: 110px;
+}
 button {
   background-color: orange;
   height: 30px;
